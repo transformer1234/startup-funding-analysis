@@ -19,4 +19,4 @@ This project analyzes startup funding data from India using Python. It includes 
 
 ---
 
-*Project by MASUDAHMED TAMBOLI | Connect on [LinkedIn](https://www.linkedin.com)*
+*Project by transformer1234 | Connect on [LinkedIn](https://www.linkedin.com)*
